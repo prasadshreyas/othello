@@ -1,2 +1,3 @@
-# OthelloAI
+# Othello
+
  
